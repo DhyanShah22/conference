@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.78958621.css",
+    "main.js": "/static/js/main.d7cb3cb8.js",
+    "static/media/pdeu3.jpg": "/static/media/pdeu3.a7d7e69a699dfdaae240.jpg",
+    "static/media/Windmill image.jpg": "/static/media/Windmill image.5d29389265c8cc9b55ce.jpg",
+    "static/media/rani_ki_vav.png": "/static/media/rani_ki_vav.2881f90e31e84b9d8760.png",
+    "static/media/logo.jpg": "/static/media/logo.46466a20793d76006605.jpg",
+    "static/media/background.jpg": "/static/media/background.1c741976e63517e3bac9.jpg",
+    "static/media/dwarka.png": "/static/media/dwarka.b9957a5bff23a9f3dad9.png",
+    "static/media/git_national_park.png": "/static/media/git_national_park.4580008404e41202b633.png",
+    "static/media/statue_of_unity.png": "/static/media/statue_of_unity.28eca437c7020a616bb9.png",
+    "static/media/akshardham_temple.png": "/static/media/akshardham_temple.effd686a658c2b0a29ed.png",
+    "static/media/pdeu2.jpg": "/static/media/pdeu2.740782fadbdc7d30975d.jpg",
+    "index.html": "/index.html",
+    "main.78958621.css.map": "/static/css/main.78958621.css.map",
+    "main.d7cb3cb8.js.map": "/static/js/main.d7cb3cb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78958621.css",
+    "static/js/main.d7cb3cb8.js"
+  ]
+}
